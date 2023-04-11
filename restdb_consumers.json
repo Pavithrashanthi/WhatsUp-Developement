@@ -1,0 +1,20 @@
+[
+    {
+      "id": 71,
+      "first_name": "Ann",
+      "last_name": "Caroyln",
+      "email": "ann@codingthesmartway.com"
+    },
+    {
+      "id": 72,
+      "first_name": "Charan",
+      "last_name": "Varun",
+      "email": "varun@codingthesmartway.com"
+    },
+    {
+      "id": 73,
+      "first_name": "Dhoni",
+      "last_name": "Mahi",
+      "email": "mahi@codingthesmartway.com"
+    }
+  ]
