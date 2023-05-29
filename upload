@@ -2,3 +2,5 @@ Create a new form to enter all student dedtails
 Add multiple resources to upload a file in student form
 Options - Drive , Dropbox , Local upload
 User can view uploaded file
+
+Check if user can upload file within 10 seconds
